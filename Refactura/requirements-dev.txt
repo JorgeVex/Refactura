@@ -1,0 +1,4 @@
+# Desarrollo: generadores de datos de prueba y compilación del .exe
+-r requirements.txt
+reportlab>=4.0
+pyinstaller>=6.0

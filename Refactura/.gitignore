@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+build/
+dist/
+FEV_PRUEBA/
+FEV_MIL/
+SALIDA/
+*.tmp
+~$*
